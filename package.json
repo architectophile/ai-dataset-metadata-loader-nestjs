@@ -1,10 +1,10 @@
 {
-  "name": "dataset-metadata-loader-nestjs",
+  "name": "ai-dataset-metadata-loader-nestjs",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "AI Dataset Metadata Loader by NestJS",
+  "author": "architectophile",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
